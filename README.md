@@ -1,2 +1,3 @@
 # infinigo
-simple infiniband for go
+Infiniband remote direct memory access wrapper for golang
+
